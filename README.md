@@ -1,1 +1,3 @@
-# python_api_challenge
+Module 6 Python API Challenge
+
+Utilized Pandas, Python and Jupyter Notebook to connect to the OpenWeatherMap API and Geocoding API to extract data and create a data analysis file. I utilized previous class assignments as well as Pandas API documentation (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.max.html), Pandas documentation (https://www.dataquest.io/blog/pandas-cheat-sheet/), and Matplotlib (https://matplotlib.org/stable/users/index) to help write code.
